@@ -1,0 +1,7 @@
+Phishing is a common form of cybercrime in which attackers attempt to obtain sensitive information such as usernames, passwords, or banking details by pretending to be a trusted entity. This usually occurs through emails, messages, or fake websites that appear legitimate.
+
+In a typical phishing attack, the victim receives a message that looks like it is from a bank, online service, or official organization. The message often creates a sense of urgency, asking the user to verify account details or click on a link. Once the user clicks the link, they are redirected to a fake website that closely resembles the original one. When the user enters their personal or financial information, it is captured by the attacker.
+
+Students and regular internet users are often targeted because they frequently use online platforms and may not always verify the authenticity of messages. The consequences of phishing include financial loss, identity theft, and unauthorized access to personal accounts.
+
+Awareness and cautious online behavior are essential to prevent such attacks.
