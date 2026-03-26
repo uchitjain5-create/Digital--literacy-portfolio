@@ -1,0 +1,7 @@
+In this task, I explored coding and collaboration platforms to understand their role in learning and academic activities. I used HackerRank to solve a beginner-level programming problem, which helped me improve my understanding of basic coding logic and problem solving.
+
+Additionally, I created a Google Form titled “Digital Literacy Awareness Quiz” consisting of multiple-choice and short-answer questions. The form was designed to assess basic knowledge of digital literacy among students. I also reviewed the responses and linked response sheet to understand how data can be collected and analyzed efficiently.
+
+Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSd74sObg7tXQFLOVtf0qDAfoQKQt4XiE-m-O6VEExYWPHCO6A/viewform?usp=sharing&ouid=114240347500133087758
+
+This task helped me understand how digital platforms can be effectively used for practice, collaboration, and assessment in an academic environment. It also highlighted the importance of using such tools for continuous learning and evaluation.
